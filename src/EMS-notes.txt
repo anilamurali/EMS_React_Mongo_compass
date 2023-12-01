@@ -1,0 +1,27 @@
+                              
+
+                              EMS FRONDEND
+                1. create a new project -> npx create-react-p ems-frond end
+                2.clear all unwanted codes
+                3.run the project -> npm start
+                4. Install the third party libary
+
+                        ->MDB bootstarap ->npm i mdb-react-ui-kit
+                        ->Install Font Awesome ->npm i @fortawesome/fontawesome-free
+                        ->Add the following lines in your index.js
+                                import 'mdb-react-ui-kit/dist/css/mdb.min.css';
+                                import "@fortawesome/fontawesome-free/css/all.min.css";
+                        ->Install react bootsrap-> npm install react-bootstrap bootstrap
+                5.Componet creation
+                    ->Admin.jsx
+                    ->Add.jsx
+                    ->Edit.jsx
+                    ->View.jsx
+                    ->PageNotefound.jsx
+                    ->Header.jsx
+                    ->Footer.jsx
+                6.Path setup
+                    ->Install react-router-dom -> npm i react-router-dom
+                        ->BrowserRouter
+                        ->Router
+                        ->Routes
